@@ -1,5 +1,3 @@
-vi apache-setup.yml
-
 - hosts: all
   become: yes
   tasks:
